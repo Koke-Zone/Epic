@@ -16,4 +16,5 @@ body{
 }
 .home-service.row.ml-0.mr-0.mt-5 {
     border: 60px solid red;
+    border-bottom: 10px dashed blue;
 }
